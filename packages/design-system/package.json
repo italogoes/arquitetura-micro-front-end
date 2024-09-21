@@ -11,5 +11,8 @@
   "description": "",
   "dependencies": {
     "styled-components": "^6.1.13"
+  },
+  "devDependencies": {
+    "@alura/tsconfig-commons": "*"
   }
 }
